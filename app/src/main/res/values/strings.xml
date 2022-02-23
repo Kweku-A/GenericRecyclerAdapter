@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GenericRecyclerAdapter</string>
+    <string name="generic_recyclerview">Generic RecyclerView</string>
+    <string name="update_list">Update List</string>
+</resources>
